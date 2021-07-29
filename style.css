@@ -1,0 +1,43 @@
+.gray-img{
+    filter: grayscale(100%);
+   
+}
+#featured-img img{
+    width: 288px;
+    height:243px;
+}
+#front-sec{
+    background-color: #264653;
+}
+   /* faq start */
+   .faq-1  {
+    height: 423.5px;
+    width: 431.20001220703125px;
+    
+   }
+   
+/* faq end */
+
+.title-color{
+    color: #23A6F0;
+}
+.fa-star{
+    font-size: 20px;
+}
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star.empty{
+    color:#AEAEAE;
+}
+
+.client-sec img{
+    width: 149px;
+    height: 149px;
+    margin: auto;
+    
+}
+.rating-sec{
+    margin: auto;
+
+}
